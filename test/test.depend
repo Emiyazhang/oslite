@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1510094268 source:c:\users\jl_zhang\desktop\À¢Ã‚\oslite\kernel\kmemory.c
+	"memory.h"
+
+1510094631 source:c:\users\jl_zhang\desktop\À¢Ã‚\oslite\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
